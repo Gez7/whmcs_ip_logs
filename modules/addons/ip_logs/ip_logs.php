@@ -10,7 +10,7 @@ function ip_logs_config()
         // Description displayed within the admin interface
         'description' => 'Records client IP address history',
         // Module author name
-        'author' => 'Hive Datacenter',
+        'author' => 'Hive Data Center',
         // Default language
         'language' => 'english',
         // Version number
